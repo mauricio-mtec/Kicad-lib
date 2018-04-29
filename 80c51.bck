@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: Sex 26 Jun 2015 10:31:33 BRT
+#
+$CMP 8051
+D Philips - 80C51 8-bit Flash microcontroller family P89C51RA2/RB2/RC2/RD2xx
+F philips/Micro80c51.pdf
+$ENDCMP
+#
+#End Doc Library
